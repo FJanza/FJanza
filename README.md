@@ -1,4 +1,4 @@
-## Hello World 👋 It's [Janza!](https://fjanza.dev.ar)
+## Hello World 🌐 It's [Janza!](https://fjanza.dev.ar)
 I'm a Full Stack developer focused on Frontend, passionate about [React](https://reactjs.org), [Next.js](https://nextjs.org), [Astro](https://astro.build) and [Node.js](https://nodejs.org).
 
 ## What i'm up to
