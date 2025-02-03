@@ -24,6 +24,4 @@ I'm a Full Stack developer focused on Frontend, passionate about [React](https:/
 ![Fjanza's Stats](https://github-readme-stats.vercel.app/api?username=Fjanza&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 ![FJanza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FJanza&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FJanza&theme=material-palenight)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=FJanza&theme=material-palenight&hide_border=true)]([https://git.io/streak-stats](https://streak-stats.demolab.com?user=FJanza&theme=material-palenight&hide_border=true))
