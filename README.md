@@ -17,6 +17,8 @@ I'm a Full Stack developer focused on Frontend, passionate about [React](https:/
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | JavaScript runtime environment for server-side development. |
 | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | Node.js framework for building APIs.                      |
 | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)     | A framework for building fast, static websites.           |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)           | A statically typed, compiled language for scalable backend development. |
+
 
 ## Analytics
 ![Fjanza's Stats](https://github-readme-stats.vercel.app/api?username=Fjanza&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
