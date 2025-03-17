@@ -2,7 +2,7 @@
 I'm a Full Stack developer focused on Frontend, passionate about [React](https://reactjs.org), [Next.js](https://nextjs.org), [Astro](https://astro.build) and [Node.js](https://nodejs.org).
 
 ## What i'm up to
-- 🔭 I’m currently working @conexa
+- 🔭 I’m currently working @MELI 💛
 - 🌱 I’m currently learning Astro
 - 💼 I’m currently working with Next and Tailwind.
 
