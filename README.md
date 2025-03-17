@@ -4,7 +4,7 @@ I'm a Full Stack developer focused on Frontend, passionate about [React](https:/
 ## What i'm up to
 - 🔭 I’m currently working @MELI 💛
 - 🌱 I’m currently learning Astro
-- 💼 I’m currently working with Next and Tailwind.
+- 💼 I’m currently working with GO
 
 ## My stack
 | Technology    | Description                                                  |
