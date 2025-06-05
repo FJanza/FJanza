@@ -9,6 +9,7 @@ I'm a Full Stack developer focused on Frontend, passionate about [React](https:/
 ## My stack
 | Technology    | Description                                                  |
 | ------------- | ------------------------------------------------------------ |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)           | A statically typed, compiled language for scalable backend development. |
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)     | A library for building user interfaces.                   |
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | A React framework with support for SSR and SSG.           |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | Superset of JavaScript that adds static typing.           |
@@ -17,7 +18,7 @@ I'm a Full Stack developer focused on Frontend, passionate about [React](https:/
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | JavaScript runtime environment for server-side development. |
 | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | Node.js framework for building APIs.                      |
 | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)     | A framework for building fast, static websites.           |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)           | A statically typed, compiled language for scalable backend development. |
+
 
 
 ## Analytics
